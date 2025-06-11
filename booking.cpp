@@ -1,8 +1,4 @@
 // RAILWAY TICKET BOOKING SYSTEM
-// Author: Claude
-// Date: April 2025
-// Description: OOP-based Railway Ticket Booking System with MySQL integration
-
 // ============= DATABASE SCHEMA (MySQL) =============
 /*
 -- Create database
